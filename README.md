@@ -1,6 +1,6 @@
 <div align=center>
 
-  <h1> Hello! My name is Luke Anger 👋🏼 </h1>
+  <h1> Hello! Nice to meet you I'm Luke 👋🏼 </h1>
   <h2> Veteran ✈ --> Chef 👨🏼‍🍳 --> Software Engineer 👩🏻‍💻</h2>
 
   <h2> Web Development </h2>
