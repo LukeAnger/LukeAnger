@@ -5,7 +5,7 @@
 
 <h2> Web Development </h2>
 
-Learned how to use the following web dev tools during the Hackreactor 12-week intensive software engineering immersive program
+Learned how to use the following web dev tools during the Hackreactor 12-week intensive software engineering immersive program.
 
 <h3> 🔤 Languages 🔤</h3>
  
