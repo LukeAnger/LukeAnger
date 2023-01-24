@@ -50,7 +50,8 @@
 
   <h2> 🌱 Continuous Learning & Development 🌱</h2>
 
-  I am a very curious person with a passion for learning. Currently interested in learning how to use ![Django]  (https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green) to add more web development tools to my knowledge base. Also, teaching myself ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) because I have always wanted to learn how to create a video game.
+  I am a very curious person with a passion for learning. Currently interested in learning how to use 
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green) to add more web development tools to my knowledge base. Also, teaching myself ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) because I have always wanted to learn how to create a video game.
 
 </div>
 
